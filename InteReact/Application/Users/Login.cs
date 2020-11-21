@@ -46,7 +46,10 @@ namespace Application.Users
                 var user = await _userManager.FindByEmailAsync(request.Email);
 
                 if (user == null)
+                {
                     throw new RestException(HttpStatusCode.Unauthorized);
+                }
+
 
                 var result = await _signInManager
                     .CheckPasswordSignInAsync(user, request.Password, false);

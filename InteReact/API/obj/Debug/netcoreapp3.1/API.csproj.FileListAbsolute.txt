@@ -220,3 +220,7 @@ C:\Users\dalodeep\Desktop\Davids_Projects\Project-Donnie\InteReact\API\bin\Debug
 C:\Users\dalodeep\Desktop\Davids_Projects\Project-Donnie\InteReact\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\dalodeep\Desktop\Davids_Projects\Project-Donnie\InteReact\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
 C:\Users\dalodeep\Desktop\Davids_Projects\Project-Donnie\InteReact\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dalodeep\Desktop\Davids_Projects\Project-Donnie\InteReact\API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\dalodeep\Desktop\Davids_Projects\Project-Donnie\InteReact\API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\dalodeep\Desktop\Davids_Projects\Project-Donnie\InteReact\API\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\dalodeep\Desktop\Davids_Projects\Project-Donnie\InteReact\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
