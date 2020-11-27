@@ -224,3 +224,4 @@ C:\Users\dalodeep\Desktop\Davids_Projects\Project-Donnie\InteReact\API\bin\Debug
 C:\Users\dalodeep\Desktop\Davids_Projects\Project-Donnie\InteReact\API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\dalodeep\Desktop\Davids_Projects\Project-Donnie\InteReact\API\bin\Debug\netcoreapp3.1\Castle.Core.dll
 C:\Users\dalodeep\Desktop\Davids_Projects\Project-Donnie\InteReact\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\dalodeep\Desktop\Davids_Projects\Project-Donnie\InteReact\API\bin\Debug\netcoreapp3.1\CloudinaryDotNet.dll
